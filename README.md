@@ -27,8 +27,7 @@ This project analyzes Airbnb listings in Seattle to predict nightly prices using
 4. **Run the analysis**
    Open `airbnb.ipynb` in Jupyter Notebook or VS Code and you're ready to play around.
 
-## Analysis Overview
-...existing analysis content...
+---
 
 ## Overview
 This project explores the relationship between Airbnb listing features and nightly prices. The goal was to build a model that predicts the price of a listing based on its characteristics—such as bedrooms, bathrooms, location, and other relevant details. Data was sourced from [Inside Airbnb](http://insideairbnb.com), focusing on Seattle, Washington for its diverse and active Airbnb market.
