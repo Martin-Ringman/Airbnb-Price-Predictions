@@ -62,4 +62,6 @@ While both models predicted Airbnb prices fairly well, this was largely due to m
 Future work could extend this analysis to predict booking frequency or occupancy rates, offering valuable insights for prospective hosts. With a more complete dataset, these models could become powerful tools for pricing and market analysis in the Airbnb ecosystem.
 
 ## Contact
+Currently the dataset has moved from it's original URL so the code has been adjusted to use it locally. Reach out to me for a copy of data, add to a data folder in the project directory and remove data/ from the .gitignore. 
+
 For questions or collaboration, feel free to reach out. 
